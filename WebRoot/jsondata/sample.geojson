@@ -1,0 +1,205 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"id": 1,
+			"name": "孔子",
+			"type": "scu",
+			"url":"images/kongzi.jpg",
+			"content":"孔子（前551-前479）孔子，春秋末期思想家，政治家，教育家，儒家学派创始者。相传先后有底子三千人，其中著名的有七十余人。所著《论语》一书集中阐述了儒家思想的核心内涵—仁。一声大部分时间都是从事教育。被后世尊为至圣，万世师表。曾修《诗》、《书》。定《礼》、《乐》，序《周易》，作《春秋》。山东省济宁市人民政府捐建2009年6月"
+			
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.534218,
+			38.875372]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 2,
+			"name": "居里夫人",
+			"type": "scu",
+			"url":"images/jlfr.jpg",
+			"content":"玛丽·居里（1867-1934）玛丽·居里，法国物理学家、化学家。研究放射性现象，发现镭和钋两种放射性元素。1903年获得诺贝尔奖物理学奖及1911获得诺贝尔奖化学奖。"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.533899,
+			38.872566]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 3,
+			"name": "爱因斯坦",
+			"type": "scu",
+			"url" :"images/ayst.jpg",
+			"content":"爱因斯坦（1879-1956）阿尔伯特·爱因斯坦。物理学家。生于德国。建立了狭义相对论，并在这基础上推广为广义相对论。因理论物理学方面的贡献，特别是发现光电效应定律，获1919年诺贝尔物理学奖。上海地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.532395,
+			38.873188]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 4,
+			"name": "牛顿",
+			"type": "scu",
+			"url":"images/nd.jpg",
+			"content":"牛顿（1643-1727）爱萨瓦·牛顿，英国物理学家、数学家与天文学家。牛顿运动定律的建立者以及万有引力定律的发现者。秦始皇地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.533306,
+			38.873261]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 5,
+			"name": "爱迪生",
+			"type": "scu",
+			"url":"images/ads.jpg",
+			"content":"爱迪生（1847-1931）爱迪生，美国发明家和企业家。发明自动收报机、留声机，实验改进了白炽灯和电话。在电影技术、矿业、建筑、化工、等方面也有不少著名的发明。一生共获一千多项发明专利。上海地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.533908,
+			38.873037]
+		}
+	},
+		{
+		"type": "Feature",
+		"properties": {
+			"id": 6,
+			"name": "张衡",
+			"type": "scu",
+			"url":"images/zhangheng.jpg",
+			"content":"张衡（78-139）东汉科学家，文学家。浑天说的代表人物之一，正确的解释了月食的成因。在数学、地理、绘画和文学等方面也表现出了非凡的才能和广博的学识。连云港地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.533378,
+			38.873009]
+		}
+	},
+			{
+		"type": "Feature",
+		"properties": {
+			"id": 7,
+			"name": "郑和",
+			"type": "scu",
+			"url":"images/zh.jpg",
+			"content":"郑和（1374-1433）郑和，航海家，先后率领船队其次出国。最远到达红海海口和非洲东海岸，遍访三十多个国家和地区，为中外航海史上的壮举。天津地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.540304,
+			38.875228]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 8,
+			"name": "柏拉图",
+			"type": "scu",
+			"url":"images/blt.jpg",
+			"content":"柏拉图（前427-前347）柏拉图，古希腊哲学家。柏拉图派的创始人。苏格拉底的底子，亚里士多德的老师。理性的训导是柏拉图教学思想的重要特色。《理想国》和《法律篇》较集中反映了他的教育说。交通94中队捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.540277,
+			38.874778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 9,
+			"name": "麦哲伦",
+			"type": "scu",
+			"url":"images/mzl.jpg",
+			"content":"麦哲伦（1480-1521）麦哲伦，葡萄牙航海家，先后为葡萄牙和西班牙作航海探险，从西班牙出发，绕过南美洲。发现麦哲伦海峡，然后横渡太平洋，完成第一次环绕地球的航行。江苏地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.5422,
+			38.876895]
+		}
+	},
+		{
+		"type": "Feature",
+		"properties": {
+			"id": 10,
+			"name": "马克思",
+			"type": "scu",
+			"url":"images/mks.jpg",
+			"content":"马克思（1818-1883）卡尔·马克思，马克思主义的创始人，无产阶级革命导师。他和恩格斯共同创立的马克思主义学说是知道全世界劳动人民为实现社会主义和共产主义伟大理想和进行斗争的理论武器和行动指南。山东省交通厅捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.539613,
+			38.879177]
+		}
+	},
+			{
+		"type": "Feature",
+		"properties": {
+			"id": 11,
+			"name": "阿基米德",
+			"type": "scu",
+			"url":"images/ajmd.jpg",
+			"content":"阿基米德（前287-前212）阿基米德，古希腊学者，发现杠杆定律和阿基米德定律。著有《沙的计算》、《论球体和圆柱体》、《圆的度量》等数学和物理著作。江西地区校友会捐建2009年6月"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.53928,
+			38.879725]
+		}
+	},
+			{
+		"type": "Feature",
+		"properties": {
+			"id": 12,
+			"name": "毕昇",
+			"type": "scu",
+			"url":"images/bs.jpg",
+			"content":"毕昇——活字印刷术的发明者。"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.533361,
+			38.874697]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 13,
+			"name": "哥伦布",
+			"type": "scu",
+			"url":"images/glb.jpg",
+			"content":"哥伦布（1451-1506）哥伦布，意大利航海家。相信地圆说，认为从欧洲西航可到达东方的印度和中国。先后四次出海远航证明了大地球形说的正确性。"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.538211,
+			38.876435]
+		}
+	}]
+}
